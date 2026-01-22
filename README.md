@@ -6,9 +6,25 @@
 
 ---
 
-## Quick Start
+## 🚀 Setup & Installation
 
-### To Run the Application:
+### Prerequisites:
+- Python 3.8 or higher
+- Groq API Key (free) - Get it from: **https://console.groq.com/**
+
+### Step 1: Get Your API Key
+1. Visit https://console.groq.com/
+2. Sign up (free account)
+3. Copy your API key
+
+### Step 2: Configure API Key
+1. Copy `.env.example` to `.env`
+2. Open `.env` file and paste your API key:
+   ```
+   GROQ_API_KEY=your_actual_api_key_here
+   ```
+
+### Step 3: Run the Application
 1. **Double-click** `START_APP.bat` (Windows)
 2. Wait for the server to start
 3. Open browser to: **http://127.0.0.1:7860**
