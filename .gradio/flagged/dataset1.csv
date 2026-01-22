@@ -1,0 +1,10 @@
+Record your query,Upload an image,Speech to Text,AI Medical Response,Text to Speech Response,timestamp
+.gradio\flagged\Record your query\f1401e2f2bf565438d84\audio.wav,.gradio\flagged\Upload an image\23786a0726a3d83a0a28\Acne.jpg,hi doctor this was happened to my face will you please tell me what I am,"I'm not a doctor, but I can try to provide some general information. Based on the image, it appears that the person has a skin condition characterized by numerous red spots and pimples on their face. This could be acne, a common skin condition that occurs when hair follicles become clogged with oil and dead skin cells. However, it's essential to consult a dermatologist for an accurate diagnosis and proper treatment.
+
+To get a more accurate assessment, I would need to know more about the person's symptoms, such as:
+
+* How long have they been experiencing these symptoms?
+* Have they noticed any triggers or factors that make the condition worse?
+* Have they tried any treatments or products before?
+
+If you're concerned about your skin, I strongly encourage you to schedule an appointment with a dermatologist. They can provide a personalized evaluation and recommend the best course of treatment.",.gradio\flagged\Text to Speech Response\e165a18d6c3ee0e93ff5\doctor_response.mp3,2026-01-22 11:44:01.880873
